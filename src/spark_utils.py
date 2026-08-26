@@ -10,3 +10,4 @@ def get_spark_session(app_name="MLApp"):
         .getOrCreate()
     return spark
 
+
