@@ -2,3 +2,5 @@
 
 Apprentices2026 - Git Practice Repository
 - Python + PySpark +SQL DE Pipeline
+
+Practice accidental pushed commit 
